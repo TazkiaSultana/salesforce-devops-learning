@@ -1,1 +1,19 @@
 started salesforce DevOps Journey - Day 1
+
+🗓️ Day 1: Git & GitHub Setup – Salesforce DevOps Journey
+
+✅ Installed Git and verified it using `git --version`
+✅ Configured Git user name and email for commits
+✅ Created my first GitHub repository: salesforce-devops-learning
+✅ Cloned the repository to my local system using Git Bash
+✅ Created a new file: day1-notes.txt
+✅ Learned basic Git commands: add, commit, push
+✅ Pushed my first file to GitHub from local repo
+✅ Understood line-ending warning (LF/CRLF) and it's safe to ignore
+
+🧠 Key Learnings:
+- Git is used to track and manage changes in code
+- GitHub is a remote repository to store and share your projects
+- Committing = saving a version of your project with a message
+- Pushing = sending your committed changes to GitHub
+- First step toward DevOps version control is now clear!
